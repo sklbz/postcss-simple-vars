@@ -9,7 +9,6 @@
 You can use variables inside values, selectors and at-rule parameters.
 
 ```pcss
-$dir:    top;
 $blue:   #056ef0;
 $column: 200px;
 
@@ -19,7 +18,6 @@ $column: 200px;
 }
 .menu {
   width: calc(4 * $column);
-  margin-$(dir): 10px;
 }
 ```
 
