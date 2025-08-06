@@ -28,7 +28,6 @@ $column: 200px;
 }
 .menu {
   width: calc(4 * 200px);
-  margin-top: 10px;
 }
 ```
 
